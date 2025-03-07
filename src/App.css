@@ -1,0 +1,10 @@
+.collection{
+    display: flex;
+    gap: 1rem;
+}
+
+.badges{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
